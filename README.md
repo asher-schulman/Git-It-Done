@@ -1,5 +1,5 @@
 # Project 3
-[Git It Done](https://git-it-done-gid.netlify.app/)
+[Git It Done](https://asher-schulman.github.io/git-it-done/)
 
 ## Collaborators
 - [Asher Schulman](https://github.com/asher-schulman)
