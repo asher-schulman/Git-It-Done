@@ -17,7 +17,7 @@ const Workspaces = () => {
 	};
 
 	// PROD
-	const URL = "https://git-it-done-backend.cyclic.app/api/api/workspaces/";
+	const URL = "https://git-it-done-backend.cyclic.app/api/workspaces/";
 	// DEV
 	// const URL = "http://localhost:8000/api/workspaces/";
 
