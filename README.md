@@ -26,7 +26,7 @@ A full-stack application that allows users to create workspaces, and tasks insid
 - Ant Design
 
 ## More Detail
-- [Backend API](https://git-it-done-backend.herokuapp.com/)
+- [Backend API](https://git-it-done-backend.cyclic.app/api)
 - [Backend Repository](https://github.com/asher-schulman/Git-It-Done-Backend/)
 
 
