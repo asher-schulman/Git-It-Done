@@ -1,7 +1,7 @@
 {
 	"name": "frontend",
 	"version": "0.1.0",
-	"homepage": "https://asher-schulman.github.io/Git-It-Done",
+	"homepage": "https://asher-schulman.github.io/git-it-done",
 	"private": true,
 	"dependencies": {
 		"@ant-design/icons": "^4.6.2",
