@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Git-It-Done/static/css/main.20034369.css",
+    "main.js": "/Git-It-Done/static/js/main.dc795125.js",
+    "static/js/787.d8c6ec95.chunk.js": "/Git-It-Done/static/js/787.d8c6ec95.chunk.js",
+    "index.html": "/Git-It-Done/index.html",
+    "main.20034369.css.map": "/Git-It-Done/static/css/main.20034369.css.map",
+    "main.dc795125.js.map": "/Git-It-Done/static/js/main.dc795125.js.map",
+    "787.d8c6ec95.chunk.js.map": "/Git-It-Done/static/js/787.d8c6ec95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20034369.css",
+    "static/js/main.dc795125.js"
+  ]
+}
