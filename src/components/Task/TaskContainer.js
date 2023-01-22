@@ -13,8 +13,8 @@ const TaskContainer = (props) => {
 	//console.log(props.match);
 
 	// PROD
-	const taskURL = "https://git-it-done-backend.cyclic.app/api/api/tasks/";
-	const URL = `https://git-it-done-backend.cyclic.app/api/api/workspaces/${workspaceId}/alltasks`;
+	const taskURL = "https://git-it-done-backend.cyclic.app/api/tasks/";
+	const URL = `https://git-it-done-backend.cyclic.app/api/workspaces/${workspaceId}/alltasks`;
 	// DEV
 	// const taskURL = "http://localhost:8000/api/tasks/";
 	// const URL = `http://localhost:8000/api/workspaces/${workspaceId}/alltasks`;
